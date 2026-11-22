@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Welcome%20to%20my%20space&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
 # 你好，欢迎来到我的 GitHub 👋
 ### Welcome to my little corner of the internet.
 
@@ -86,20 +90,30 @@ Some works that mean a lot to me:
 
 ---
 
-## GitHub Stats
+## GitHub 数据 | GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Gorden-86&show_icons=true&hide_border=true&theme=transparent&locale=cn" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorden-86&layout=compact&hide_border=true&theme=transparent&locale=cn" height="165" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=Gorden-86&theme=transparent&hide_border=true" />
+
+</div>
+
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&locale=cn" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&locale=cn" />
+<sub>世界的秘密，仍然值得去寻找。</sub>
+<br/>
+<sub>Inspired by Little Busters!</sub>
 </p>
 
 ---
 
 <p align="center">
-<sub>记录想法，尝试实践，持续探索。</sub>
-<br/>
-<sub>Documenting ideas. Exploring possibilities. Building along the way.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0f172a&height=100&section=footer" />
 </p>
