@@ -4,9 +4,10 @@
 
 # 你好，欢迎来到我的 GitHub 👋
 ### Welcome to my little corner of the internet.
-孤灯照镜上
+###
+**孤灯照镜上**
 Gorden
-
+###
 一个喜欢折腾技术、组织活动、探索二次元世界的普通人。
 
 I'm interested in technology, creative projects, ACGN culture, and everything that makes life a little more interesting.
