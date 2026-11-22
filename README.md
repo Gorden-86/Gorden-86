@@ -2,15 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Welcome%20to%20my%20space&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-# 你好，欢迎来到我的 GitHub 👋
-### Welcome to my little corner of the internet.
-###
-**孤灯照镜上**
-Gorden
-###
-一个喜欢折腾技术、组织活动、探索二次元世界的普通人。
+<h1 align="center">你好，欢迎来到我的 GitHub 👋</h1>
 
-I'm interested in technology, creative projects, ACGN culture, and everything that makes life a little more interesting.
+<h2 align="center">孤灯照镜上</h2>
+<p align="center">
+  <sub>Gorden</sub>
+</p>
+
+<p align="center">
+  一个喜欢折腾技术、组织活动、探索二次元世界的普通人。
+  <br/>
+  I'm interested in technology, creative projects, ACGN culture, and everything that makes life a little more interesting.
+</p>
 
 ---
 
